@@ -1,10 +1,21 @@
 # Table of Contents
 TOC of my training materials for quick reference
 
+### Sass
+
+#### Code
+* [Sass Examples](https://github.com/anoopmd/sass-examples)
+
+### RequireJS
+
+#### Code
+* [RequireJS Examples](https://github.com/anoopmd/requirejs-examples)
+
 ### Knockout JS
 
 #### Code
 * [Sample programs using Knockout](https://github.com/anoopmd/knockout-samples)
+* [Todo MVC + PagerJS](https://github.com/anoopmd/knockout-todo-mvc)
 
 #### Presentations
 * [PPT Presentation](https://docs.google.com/presentation/d/1XBgJ8g4cop9seYHfUnOcdPmPVAVZ00FOD1Bb7iFo-z0/edit#slide=id.gc6f919934_0_0)
@@ -12,8 +23,10 @@ TOC of my training materials for quick reference
 ### Ojet v4.x
 
 #### Code
-* [Sample programs using OJET](https://github.com/anoopmd/ojet-starter)
-* 
+* [OJET Starter Kit](https://github.com/anoopmd/ojet-starter)
+* [Sample programs using OJET](https://github.com/anoopmd/ojet-examples)
+* [OJET PMO App](https://github.com/anoopmd/ojet-pmo)
+
 
 #### References
 * [Website](http://www.oracle.com/webfolder/technetwork/jet/index.html)
