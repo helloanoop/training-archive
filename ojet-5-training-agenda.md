@@ -17,7 +17,6 @@ Agenda of my OJET 5 Training
 * Introduction.
   - Getting to know each other.
   - Understanding what each one likes/hates about programming
-  - I am a programmer, Dont worry.
   - WHY is more important that HOW or WHAT
 * Some useful quotes
   - "I do not carry such information in my mind since it is readily available in books. The value of a college education is not the learning of many facts but the training of the mind to think. - AE"
@@ -54,6 +53,9 @@ Agenda of my OJET 5 Training
   - Understanding Event Loop
   - Function execution types
   - apply, call and bind
+
+##### Refereneces
+  * [What the heck is Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 ### Session 3 <sup>1hr 30m</sup>
 * Advanced JS Concepts (...continued)
