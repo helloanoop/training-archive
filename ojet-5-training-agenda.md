@@ -31,4 +31,4 @@ Agenda of my OJET 5 Training
     - [Digital Logic & Computer Design](https://www.amazon.in/Digital-Logic-Computer-Design-Old/dp/817758409X)
     - [Structure & Implementation of Computer Programs](http://web.mit.edu/alexmv/6.037/sicp.pdf)
     - [Awesome JS](https://github.com/sorrycc/awesome-javascript)
-    - [Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc)
+    - [Future of Programming - Talk by Bob Martin](https://www.youtube.com/watch?v=ecIWPzGEbFc)
