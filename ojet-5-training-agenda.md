@@ -94,6 +94,7 @@ Agenda of my OJET 5 Training
   - Clone starter kit
   - Understanding ojModule
   - Understanding ojRouter
+  - Spa using ojRouter and ojModule
 
 ### Session 4 <sup>1hr 45m</sup>
 
@@ -122,4 +123,3 @@ Hands on practice + Questions
 
 ### Session 4 <sup>1hr 45m</sup>
 Hands on practice + Questions + Signoff
-
