@@ -53,13 +53,14 @@ Agenda of my OJET 5 Training
   - Understanding Event Loop
   - Function execution types
   - apply, call and bind
-
-##### Refereneces
-  * [What the heck is Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+* Quick Intro to NodeJS
+  - Brief History
+  - Use Cases
+  - Architecture
 
 ### Session 3 <sup>1hr 30m</sup>
 * Advanced JS Concepts (...continued)
-  - this & prototypes
+  - Prototypes
   - Closures
   - Promises
 
@@ -76,6 +77,17 @@ Agenda of my OJET 5 Training
   - Dependency Injection.
   - Examples.
 
+##### Presentations
+  * [Javascript Advanced](https://docs.google.com/presentation/d/1lQDzVoaRbF63Wm-reRDSSLtbKNqaWSG3c-lGyV6bAjk/edit?usp=sharing)
+  * [NodeJS](https://docs.google.com/presentation/d/1QaNcXvwCY7YwqHJsW-bTl6V36ObLqrrkqQytYU6V_C8/edit#slide=id.gc6f919934_0_0)
+
+##### References
+  * [What the heck is Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+  * [Objects & Prototypes](https://www.youtube.com/watch?v=fBpPfPjxOhc&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)
+  * [Ryan Dahl - NodeJS Presentation at JSConf](https://www.youtube.com/watch?v=ztspvPYybIY&t=1s)
+  * [Promises](https://javascript.info/promise-basics)
+
+
 ## Day 2
 ### Session 1 <sup>1 hr</sup>
 * Knockout JS
@@ -89,6 +101,9 @@ Agenda of my OJET 5 Training
   - Components
   - Airline Reservation System demo
   - TodoMVC + Spa using PagerJS
+
+##### Presentations
+* [Knockout JS](https://docs.google.com/presentation/d/1XBgJ8g4cop9seYHfUnOcdPmPVAVZ00FOD1Bb7iFo-z0/edit#slide=id.gc6f919934_0_0)
 
 ### Session 3 <sup>1hr 30m</sup>
 * OJET
