@@ -53,16 +53,17 @@ Agenda of my OJET 5 Training
   - Understanding Event Loop
   - Function execution types
   - apply, call and bind
-* Quick Intro to NodeJS
-  - Brief History
-  - Use Cases
-  - Architecture
 
 ### Session 3 <sup>1hr 30m</sup>
 * Advanced JS Concepts (...continued)
   - Prototypes
   - Closures
   - Promises
+
+* Quick Intro to NodeJS
+  - Brief History
+  - Use Cases
+  - Architecture
 
 ### Session 4 <sup>1hr 45m</sup>
 * Jquery.
