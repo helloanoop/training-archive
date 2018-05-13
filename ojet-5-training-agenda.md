@@ -13,7 +13,7 @@ Agenda of my OJET 5 Training
   - Yarn
 
 ## Day 1
-### Session 1
+### Session 1 <sup>1 hr</sup>
 * Introduction.
   - Getting to know each other.
   - Understanding what each one likes/hates about programming
@@ -26,7 +26,7 @@ Agenda of my OJET 5 Training
   - Everything software in the world is basically electronic circuitry + a bunch of 1s and 0s. Circuitry is easy, creating the 1s and 0s are infinetly more difficult.
   - Software is infintely more malleable when compared to hardware.
   - Programming can be simplified as an art of developing designs, paradigms, algorithms, languages, what not... All targeted towards controlling complexity.
-  _ Electronics and Software.
+  _ Mathematics, Electronics and Software.
   - Books, Videos and References
     - [Digital Logic & Computer Design](https://www.amazon.in/Digital-Logic-Computer-Design-Old/dp/817758409X)
     - [Structure & Implementation of Computer Programs](http://web.mit.edu/alexmv/6.037/sicp.pdf)
