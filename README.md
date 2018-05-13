@@ -25,7 +25,14 @@ TOC of my training materials for quick reference
 #### Presentations
 * [PPT Presentation](https://docs.google.com/presentation/d/1XBgJ8g4cop9seYHfUnOcdPmPVAVZ00FOD1Bb7iFo-z0/edit#slide=id.gc6f919934_0_0)
 
-### Ojet v4.x
+### OJET v5.x
+
+#### Code
+* [OJET Starter Kit](https://github.com/anoopmd/ojet-5-starter)
+* [Sample programs using OJET](https://github.com/anoopmd/ojet-5-examples)
+* [Bookstore App](https://github.com/anoopmd/ojet-5-bookstore-app)
+
+### OJET v4.x
 
 #### Code
 * [OJET Starter Kit](https://github.com/anoopmd/ojet-starter)
@@ -33,7 +40,7 @@ TOC of my training materials for quick reference
 * [OJET PMO App](https://github.com/anoopmd/ojet-pmo)
 
 
-#### References
+### OJET References
 * [Website](http://www.oracle.com/webfolder/technetwork/jet/index.html)
 * [Featured Demos](http://www.oracle.com/webfolder/ux/middleware/alta/featuredDemos.html)
 * [JS Docs](http://www.oracle.com/webfolder/technetwork/jet/jsdocs/index.html)
