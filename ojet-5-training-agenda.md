@@ -32,3 +32,43 @@ Agenda of my OJET 5 Training
     - [Structure & Implementation of Computer Programs](http://web.mit.edu/alexmv/6.037/sicp.pdf)
     - [Awesome JS](https://github.com/sorrycc/awesome-javascript)
     - [Future of Programming - Talk by Bob Martin](https://www.youtube.com/watch?v=ecIWPzGEbFc)
+
+### Session 2 <sup>2hr 15m</sup>
+* JS History.
+  - History
+  - ECMA 262, W3C
+* JS Basics
+  - Building blocks: Data types, literals and variables
+  - Interacting with the user: alerts, confirms and prompts
+  - Operators and expressions
+  - Type checking and type conversion
+  - null vs undefined
+  - Exception Handling: try, catch, throw
+  - Functions: Defining and invoking named and anonymous functions
+* Javascript Core Objects
+  - Array, String, Date, Math, Navigator, Cookie
+  - JSON parse, stringify
+  - Creating User defined objects
+* Advanced JS Concepts
+  - Function execution types
+  - apply, call and bind
+  - this & prototypes
+
+### Session 3 <sup>1hr 30m</sup>
+* Advanced JS Concepts (...continued)
+  - Understanding Event Loop
+  - Closures
+  - Promises
+
+### Session 4 <sup>1hr 45m</sup>
+* Jquery.
+  - Basics.
+  - DOM manipulation with Jquery.
+  - Animations.
+  - Ajax.
+  - Plugins.
+
+* RequireJS.
+  - Basics.
+  - Dependency Injection.
+  - Examples.
