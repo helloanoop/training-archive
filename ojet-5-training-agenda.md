@@ -18,6 +18,7 @@ Agenda of my OJET 5 Training
   - Getting to know each other.
   - Understanding what each one likes/hates about programming
   - I am a programmer, Dont worry.
+  - WHY is more important that HOW or WHAT
 * Some useful quotes
   - "I do not carry such information in my mind since it is readily available in books. The value of a college education is not the learning of many facts but the training of the mind to think. - AE"
   - Kano Jigoro, the father of modern Judo, once told his students, “When I die, bury me in my white belt.” His wish was to be remembered as a student, not as a black belt master.
@@ -50,13 +51,13 @@ Agenda of my OJET 5 Training
   - JSON parse, stringify
   - Creating User defined objects
 * Advanced JS Concepts
+  - Understanding Event Loop
   - Function execution types
   - apply, call and bind
-  - this & prototypes
 
 ### Session 3 <sup>1hr 30m</sup>
 * Advanced JS Concepts (...continued)
-  - Understanding Event Loop
+  - this & prototypes
   - Closures
   - Promises
 
@@ -72,3 +73,50 @@ Agenda of my OJET 5 Training
   - Basics.
   - Dependency Injection.
   - Examples.
+
+## Day 2
+### Session 1 <sup>1 hr</sup>
+* Knockout JS
+  - Basics and Installation
+  - Bindings
+  - Custom Bindings
+
+### Session 2 <sup>2hr 15m</sup>
+* Knockout JS
+  - Templates
+  - Components
+  - Airline Reservation System demo
+  - TodoMVC + Spa using PagerJS
+
+### Session 3 <sup>1hr 30m</sup>
+* OJET
+  - CLI Installation + Navbar App
+  - Clone starter kit
+  - Understanding ojModule
+  - Understanding ojRouter
+
+### Session 4 <sup>1hr 45m</sup>
+
+## Day 4
+### Session 1 <sup>1 hr</sup>
+### Session 2 <sup>2hr 15m</sup>
+### Session 3 <sup>1hr 30m</sup>
+### Session 4 <sup>1hr 45m</sup>
+
+## Day 4
+### Session 1 <sup>1 hr</sup>
+* Introduction to Grunt
+* Installing 3rd Party Apps
+* Theming
+* Packaging
+
+### Session 2 <sup>2hr 15m</sup>
+* Testing using Jasmine
+* Responsive design
+
+### Session 3 <sup>1hr 30m</sup>
+Hands on practice + Questions
+
+### Session 4 <sup>1hr 45m</sup>
+Hands on practice + Questions + Signoff
+
