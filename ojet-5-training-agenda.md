@@ -17,4 +17,7 @@ Agenda of my OJET 5 Training
 * Introduction.
   - Getting to know each other.
   - Understanding what each one likes/hates about programming
-* 
+  - "Do not learn "
+  - I am a programmer, Dont worry.
+* Some useful quotes
+  - "I do not carry such information in my mind since it is readily available in books. The value of a college education is not the learning of many facts but the training of the mind to think. - AE"
