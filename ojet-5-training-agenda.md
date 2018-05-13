@@ -21,3 +21,7 @@ Agenda of my OJET 5 Training
 * Some useful quotes
   - "I do not carry such information in my mind since it is readily available in books. The value of a college education is not the learning of many facts but the training of the mind to think. - AE"
   - Kano Jigoro, the father of modern Judo, once told his students, “When I die, bury me in my white belt.” His wish was to be remembered as a student, not as a black belt master.
+* On Programming
+  - Everything software in the world is basically electronic circuitry + a bunch of 1s and 0s.Circuitry is easy, creating the 1s and 0s are infinetly more difficult.
+  - Software is infintely more malleable whewn compared to hardware.
+  - Programming can be simplified as an art of developing designs, paradigms, algorithms, languages, what not... All targeted towards controlling complexity.
