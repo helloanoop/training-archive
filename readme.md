@@ -1,5 +1,5 @@
-# Table of Contents
-TOC of my training materials for quick reference
+# Training Archive
+A repository for catalouging my training stuff.
 
 ### ExpressJS
 
