@@ -116,7 +116,7 @@ Agenda of my OJET 5 Training
 
 ### Session 4 <sup>1hr 45m</sup>
 
-## Day 4
+## Day 3
 ### Session 1 <sup>1 hr</sup>
 
 ### Session 2 <sup>2hr 15m</sup>
