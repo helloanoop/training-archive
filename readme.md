@@ -47,5 +47,6 @@ A repository for catalouging my training stuff.
 * [Release Notes](http://www.oracle.com/webfolder/technetwork/jet/globalSupport-releaseNotes.html)
 * [Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html)
 * [Developer Docs](https://docs.oracle.com/en/middleware/jet/5/develop/toc.htm)
+* [Styling Guide](https://docs.oracle.com/en/middleware/jet/5/reference-styling/index.html)
 * [Cookbook](http://www.oracle.com/webfolder/technetwork/jet/jetCookbook.html)
 * [JustinMind Article](https://www.justinmind.com/blog/better-ui-prototyping-with-justinminds-oracle-alta-ui-kit/)
