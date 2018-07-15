@@ -23,10 +23,9 @@ Agenda of my OJET 5 Training
   - Kano Jigoro, the father of modern Judo, once told his students, “When I die, bury me in my white belt.” His wish was to be remembered as a student, not as a black belt master.
   - "Take the approach that you are always wrong, and your goal is to be less wrong". - Elon Musk
 * On Programming
-  - Everything software in the world is basically electronic circuitry + a bunch of 1s and 0s. Circuitry is easy, creating the 1s and 0s are infinetly more difficult.
+  - Everything software in the world is basically electronic circuitry + a bunch of 1s and 0s. Circuitry is easy, creating the 1s and 0s are infinitely more difficult.
   - Software is infintely more malleable when compared to hardware.
-  - Programming can be simplified as an art of developing designs, paradigms, algorithms, languages, what not... All targeted towards controlling complexity.
-  _ Mathematics, Electronics and Software.
+  - Programming Vs Technology. Programming can be simplified as an art of developing designs, paradigms, algorithms, languages, what not... All targeted towards controlling complexity.
   - Books, Videos and References
     - [Digital Logic & Computer Design](https://www.amazon.in/Digital-Logic-Computer-Design-Old/dp/817758409X)
     - [Structure & Implementation of Computer Programs](http://web.mit.edu/alexmv/6.037/sicp.pdf)
@@ -39,7 +38,6 @@ Agenda of my OJET 5 Training
   - ECMA 262, W3C
 * JS Basics
   - Building blocks: Data types, literals and variables
-  - Interacting with the user: alerts, confirms and prompts
   - Operators and expressions
   - Type checking and type conversion
   - null vs undefined
@@ -50,7 +48,6 @@ Agenda of my OJET 5 Training
   - JSON parse, stringify
   - Creating User defined objects
 * Advanced JS Concepts
-  - Understanding Event Loop
   - Function execution types
   - apply, call and bind
 
@@ -63,7 +60,10 @@ Agenda of my OJET 5 Training
 * Quick Intro to NodeJS
   - Brief History
   - Use Cases
-  - Architecture
+
+* Basic HTML, CSS
+  - id vs class
+  - dom manipulation
 
 ### Session 4 <sup>1hr 45m</sup>
 * Jquery.
@@ -100,8 +100,8 @@ Agenda of my OJET 5 Training
 * Knockout JS
   - Templates
   - Components
-  - Airline Reservation System demo
-  - TodoMVC + Spa using PagerJS
+  - Airline Reservation System (demo only)
+  - TodoMVC + Spa using PagerJS (demo only)
 
 ##### Presentations
 * [Knockout JS](https://docs.google.com/presentation/d/1XBgJ8g4cop9seYHfUnOcdPmPVAVZ00FOD1Bb7iFo-z0/edit#slide=id.gc6f919934_0_0)
@@ -118,22 +118,36 @@ Agenda of my OJET 5 Training
 
 ## Day 3
 ### Session 1 <sup>1 hr</sup>
+* UI Components
+  - Collections
+  - Controls
+  - Chart
+
+* Common Model & Collection API
+  - oj.Model & oj.Collection
 
 ### Session 2 <sup>2hr 15m</sup>
+* Common Model & Collection API (..cont)
+  - CRUD examples
+  - Pagination
 
 ### Session 3 <sup>1hr 30m</sup>
+* Custom Components
 
 ### Session 4 <sup>1hr 45m</sup>
+* Validators & Converters
+* Working with Usr Assistance
 
 ## Day 4
 ### Session 1 <sup>1 hr</sup>
 * Introduction to Grunt
 * Installing 3rd Party Apps
-* Theming
-* Packaging
+* Theming, Packaging & Securing Web Applications
 
 ### Session 2 <sup>2hr 15m</sup>
-* Testing using Jasmine
+* Internationalizing and Localizing apps
+* Developing Accessible applications
+* Testing using Jasmine (quick demo)
 * Responsive design
 
 ### Session 3 <sup>1hr 30m</sup>
