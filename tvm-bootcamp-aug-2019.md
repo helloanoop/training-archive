@@ -88,7 +88,7 @@ Agenda of my OJET 7 Training
   * [Objects & Prototypes](https://www.youtube.com/watch?v=fBpPfPjxOhc&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)
   * [Ryan Dahl - NodeJS Presentation at JSConf](https://www.youtube.com/watch?v=ztspvPYybIY&t=1s)
   * [Promises](https://javascript.info/promise-basics)
-
+  * [Prototypes](https://hackernoon.com/understand-nodejs-javascript-object-inheritance-proto-prototype-class-9bd951700b29)
 
 ## Day 2
 ### Session 1 <sup>1 hr</sup>
@@ -141,7 +141,6 @@ Agenda of my OJET 7 Training
 
 ## Day 4
 ### Session 1 <sup>1 hr</sup>
-* Introduction to Grunt
 * Installing 3rd Party Apps
 * Theming, Packaging & Securing Web Applications
 

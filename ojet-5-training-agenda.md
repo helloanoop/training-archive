@@ -140,7 +140,6 @@ Agenda of my OJET 5 Training
 
 ## Day 4
 ### Session 1 <sup>1 hr</sup>
-* Introduction to Grunt
 * Installing 3rd Party Apps
 * Theming, Packaging & Securing Web Applications
 
