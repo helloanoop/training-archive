@@ -137,7 +137,6 @@ Agenda of my OJET 7 Training
 
 ### Session 4 <sup>1hr 45m</sup>
 * CRUD View Implementation
-* Working with User Assistance
 
 ## Day 4
 ### Session 1 <sup>1 hr</sup>
