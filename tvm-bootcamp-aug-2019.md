@@ -136,7 +136,7 @@ Agenda of my OJET 7 Training
 * Custom Components
 
 ### Session 4 <sup>1hr 45m</sup>
-* Validators & Converters
+* CRUD View Implementation
 * Working with User Assistance
 
 ## Day 4
